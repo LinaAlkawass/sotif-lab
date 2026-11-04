@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34395987/README.md)
 # SOTIF Lab — Engineering safety through scenarios
 
 An independent **educational website** exploring Safety of the Intended Functionality (SOTIF / ISO 21448:2022), with a fictional AEB pedestrian case study, a browser-only scenario ledger, and a basic stopping-distance calculator.
